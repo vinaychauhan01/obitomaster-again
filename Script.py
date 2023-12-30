@@ -6,7 +6,7 @@ Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ M�
 HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
-        ABOUT_TXT = """<b>
+            ABOUT_TXT = """<b>
  🤖 ᴍʏ ɴᴀᴍᴇ : {}
  👨‍💻 ᴄʀᴇᴀᴛᴏʀ : <a href='https://t.me/vinaychauhanjaat'>ᴰᴱⱽᴱᴸᴼᴾᴱᴿ</a>
  📚 ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a>
