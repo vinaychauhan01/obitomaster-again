@@ -7,7 +7,7 @@ HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
 ABOUT_TXT = """<b>
- 🤖 ᴍʏ ɴᴀᴍᴇ : {}
+ 🤖 ᴍʏ ɴᴀᴍᴇ : {}</b>
  👨‍💻 ᴄʀᴇᴀᴛᴏʀ : <a href='https://t.me/vinaychauhanjaat'>ᴰᴱⱽᴱᴸᴼᴾᴱᴿ</a>
  📚 ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a>
  📝 ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a>
