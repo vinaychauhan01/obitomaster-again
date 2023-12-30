@@ -6,8 +6,7 @@ Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ M�
 HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
-    ABOUT_TXT = """<b>
-🤖 ᴍʏ ɴᴀᴍᴇ : {}
+    ABOUT_TXT = """<b>🤖 ᴍʏ ɴᴀᴍᴇ : {}
 
  👨‍💻 ᴄʀᴇᴀᴛᴏʀ : <a href='https://t.me/V_Sbotmaker'>ᴰᴱⱽᴱᴸᴼᴾᴱᴿ</a>
 
