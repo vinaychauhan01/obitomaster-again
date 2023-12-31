@@ -1649,8 +1649,8 @@ async def auto_filter(client, msg, spoll=False):
         if re.findall("((^\/|^,|^!|^\.|^[\U0001F600-\U000E007F]).*)", message.text):
             return
         if len(message.text) < 100:
-            search = message.stickerid
-            m=await message.reply_stickerid(f"<b><i> CAACAgQAAxkBAAEB2AplkPZ8TzIIAAHIA8Za0pDweO2SfPEAAm4PAALh6rFQ2jEHmOgnEaIeBA</i></b>")
+            search = message.text
+            m=await message.reply_text(f"<b><i> 𝗿𝗲𝗾𝘂𝗲𝘀𝘁 𝘂𝗻𝗱𝗲𝗿 𝗽𝗿𝗼𝗰𝗲𝘀𝘀.. '{search}'</i></b>")
             search = search.lower()
             find = search.split(" ")
             search = ""
@@ -1679,7 +1679,7 @@ async def auto_filter(client, msg, spoll=False):
     else:
         message = msg.message.reply_to_message  # msg will be callback query
         search, files, offset, total_results = spoll
-        m=await message.reply_stickerid(f"<b><i> CAACAgQAAxkBAAEB2AplkPZ8TzIIAAHIA8Za0pDweO2SfPEAAm4PAALh6rFQ2jEHmOgnEaIeBA</i></b>")
+        m=await message.reply_text(f"<b><i> 𝗿𝗲𝗾𝘂𝗲𝘀𝘁 𝘂𝗻𝗱𝗲𝗿 𝗽𝗿𝗼𝗰𝗲𝘀𝘀.. '{search}'</i></b>")
         settings = await get_settings(message.chat.id)
         await msg.message.delete()
     pre = 'filep' if settings['file_secure'] else 'file'
